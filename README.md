@@ -1,7 +1,8 @@
 ### Hi, I'm Patrick
 Lead Programmer and CEO of Sysware.
-I love 🥰 programming and 
+I love 🥰 programming, backend (most experienced) and frontend 
 - 🔭 I’m currently working with C# .net and React.js, creating really powerful web applications.
+- MySQL Database and Oracle
 - Identity Server - JWT Bearer
 
 
@@ -16,7 +17,7 @@ Tools 🔨
 ======================================
 
 Sysware Games - Unity Mobile Games.
-- AwesomeDogs and Skydogs AppStore and playstore.
+- AwesomeDogs and Skydogs AppStore and PlayStore.
 - Unity
 
 
