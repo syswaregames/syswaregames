@@ -2,10 +2,14 @@
 
 Lead Programmer and CEO of Sysware.
 I love 🥰 programming, backend (most experienced) and frontend 
-- 🔭 I’m currently working with C# .net and React.js, creating really powerful web applications.
+- 🔭 I’m currently working with C# .net core and React.js, creating really powerful web applications.
 - 🐬 MySQL Database and Oracle
 - Identity Server - JWT Bearer
+- Swagger
+- IIS server or Apache
 
+Add:
+  Today I'm responsable for some datacenters and cloud servies and apis of some clients for exemple https://api.lex.com.br where runs the site www.lex.com.br, I developed the entire API, and the ERP system on backoffice connected to a oracle database. The website there is a login section for the customers access and products.
 
 Tools 🔨
 - :whale: Docker
