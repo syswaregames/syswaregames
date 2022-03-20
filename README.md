@@ -1,11 +1,23 @@
 ### Hi, I'm Patrick
-Software developer and CEO of Sysware.
-I love programming C# .net and React.js, creating really powerful web applications. 
+Lead Programmer and CEO of Sysware.
+I love 🥰 programming and 
+- 🔭 I’m currently working with C# .net and React.js, creating really powerful web applications.
+- Identity Server - JWT Bearer
 
 
-Side Projects:
+Tools 🔨
+- :whale: Docker
+- 🖥️ VSCode
+
+
+
+
+:video_game: Side Projects::video_game:
+======================================
+
 Sysware Games - Unity Mobile Games.
-AwesomeDogs and Skydogs AppStore and playstore.
+- AwesomeDogs and Skydogs AppStore and playstore.
+- Unity
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syswaregames&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
