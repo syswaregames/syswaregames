@@ -1,7 +1,7 @@
 ### Hi, I'm Patrick 🙂
 
 Lead Programmer and CEO of Sysware.
-I love 🥰 programming, backend (most experienced) and frontend 
+I love 🥰 programming, backend (most experience) and frontend 
 - 🔭 I’m currently working with C# .net core and React.js (typescript), creating really powerful web applications.
 - 🐬 MySQL Database and Oracle
 - Identity Server - JWT Bearer
