@@ -1,4 +1,4 @@
-### Hi, I'm Patrick 🙂
+### Hi, I'm Patrick 😎
 
 Lead Programmer and CEO of Sysware.
 I love 🥰 programming, backend (most experience) and frontend 
