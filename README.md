@@ -6,7 +6,8 @@ I love 🥰 programming, backend (most experienced) and frontend
 - 🐬 MySQL Database and Oracle
 - Identity Server - JWT Bearer
 - Swagger
-- IIS server or Apache
+- IIS Server or Apache
+- Javascript, Html, Css, React.js, Typescript, Bootstrap
 
 Add:
   Today I'm responsable for some datacenters and cloud servies and apis of some clients for exemple https://api.lex.com.br where runs the site www.lex.com.br, I developed the entire API, and the ERP system on backoffice connected to a oracle database. The website there is a login section for the customers access and products.
