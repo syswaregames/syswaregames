@@ -2,7 +2,7 @@
 
 Lead Programmer and Game Designer
 
-DashLeague main dev.
+Currently working on DashLeague game
 https://dashleague.io
 
 DevLog - Twitter
