@@ -1,4 +1,4 @@
-### Hi, I'm Patrick 😎
+### Hi there! I'm Patrick 😎
 
 Lead Programmer and Game Designer
 
