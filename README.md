@@ -29,7 +29,7 @@ Awesome Dogs!
 Mobile Adventure 2D Platform - [iOS](https://apps.apple.com/sa/app/awesome-dogs/id1450557857) and [Android](https://play.google.com/store/apps/details?id=syswaregames.com.awesomedogs&hl=en_CA&gl=US&pli=1)  
 Video Teaser - https://youtu.be/-uu27Al_gGw  
 
-<img src="https://your-image-url.type](https://user-images.githubusercontent.com/35966031/214991951-1660fedf-39e2-4874-aa5e-dc5d0c224d31.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/35966031/214991951-1660fedf-39e2-4874-aa5e-dc5d0c224d31.png" width="100" height="100">
 
 ![unnamed](https://user-images.githubusercontent.com/35966031/214992545-a53b5d25-c30c-42b6-bb44-aee323d14071.jpg)  
 
