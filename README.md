@@ -14,6 +14,12 @@ Random Player Algorithm - I created this algorithm to reveal each player using u
 ![ezgif-2-39dc686945](https://user-images.githubusercontent.com/35966031/214795313-5bfa0406-0705-4d26-9881-8c93a70818c3.gif)
 
 
+===
+
+Emule - NES Emulator, 8-bit architecture, 6500 processor Optimized for MACOSX
+C++ - [source code](https://github.com/syswaregames/pythonsnake](https://github.com/syswaregames/emule8bit)  
+
+https://user-images.githubusercontent.com/35966031/163905588-715091f2-c217-460d-ac5e-2c2b3154594e.png![image](https://user-images.githubusercontent.com/35966031/215884145-78384647-5f45-4bdb-bca1-26a102e9ffa7.png)
 
 
 
