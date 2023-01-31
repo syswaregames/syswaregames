@@ -2,7 +2,7 @@
 
 Lead Programmer and Game Designer
 
-Currently working on DashLeague game
+Currently working on DashLeague game - MMORPG
 https://dashleague.io
 
 DevLog - Twitter
@@ -19,7 +19,8 @@ Random Player Algorithm - I created this algorithm to reveal each player using u
 Emule - NES Emulator, 8-bit architecture, 6500 processor Optimized for MACOSX
 C++ - [source code](https://github.com/syswaregames/pythonsnake](https://github.com/syswaregames/emule8bit)  
 
-![image](https://user-images.githubusercontent.com/35966031/215884145-78384647-5f45-4bdb-bca1-26a102e9ffa7.png)
+![163905588-715091f2-c217-460d-ac5e-2c2b3154594e](https://user-images.githubusercontent.com/35966031/215884578-e272d7c5-c615-4862-9d5d-9ee14a345f17.png)
+
 
 
 
