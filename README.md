@@ -1,6 +1,6 @@
 ### Hi there! I'm Patrick 😎
 
-Lead Programmer and Game Designer
+Senior Developer and Game Designer
 
 Currently working on DashLeague game - MMORPG
 https://dashleague.io
