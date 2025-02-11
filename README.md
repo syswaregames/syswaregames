@@ -1,11 +1,24 @@
 ### Hi there! I'm Patrick 😎
 
-Senior Developer and Game Designer
+Senior Game Dev
 
-Currently working on DashLeague game - MMORPG
+
+Past Projects
+===
+
+VFS Mansion - A mansion created for playtesting and teaching students about the power and features of Unreal at Vancouver Film School (VFS).
+https://www.youtube.com/watch?v=v-04sxk0sYE 
+
+===
+
+https://www.heroes.fun - I created new mechanics, new enemies, and bomb dynamics, as well as optimized the game for mobile and WebGL.
+
+===
+
+DashLeague game - MMORPG
 https://dashleague.io
 
-Random Player Algorithm - I created this algorithm to reveal each player using unique traits, it's a really cool feature for a MMORPG, in this case it's  a Rig made in Spine Software animation.  
+Random Player Algorithm - I created this algorithm to reveal each player using unique traits. It's a really cool feature for an MMORPG. In this case, it's a rig made using Spine animation software
 
 ===
 
