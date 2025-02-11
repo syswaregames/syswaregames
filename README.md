@@ -1,6 +1,4 @@
-### Hi there! I'm Patrick 😎
-
-Senior Game Dev
+### Hi there! I'm Patrick 😎 Senior Game Dev
 
 
 Past Projects
